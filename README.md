@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👨‍💻 S M Iftekher Mahmud Jitu
 
-<!--
-**IftekherG2/IftekherG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Jitu — a passionate programmer with a strong interest in **Computer Vision**.  
+I love building intelligent systems that see and understand the world.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Interests
+- 🧠 Computer Vision & Image Processing
+- 📷 Object Detection & Recognition
+- 💻 Python | OpenCV | Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+Feel free to reach out or collaborate on cool vision projects!
+
